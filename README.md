@@ -3,8 +3,8 @@ TelloTalent Robomaster TT hardware package for programming the esp32 included wi
 
 ## Notes
 
-1. _All this files are extracted from the Mind+ program. Which you can download [here](http://mindplus.cc/en.html)_
-2. _If you want to use the RMTT_libs library , I recommend downloading the one from the releases of this repo, as it is extracted from the Mind+ program and it works better than the one supplied by dji._
+1. **All this files are extracted from the Mind+ program. Which you can download [here](http://mindplus.cc/en.html)**
+2. **If you want to use the RMTT_libs library , I recommend downloading the one from the releases of this repo, as it is extracted from the Mind+ program and it works better than the one supplied by dji.**
 # Tutorial:
 1. Download the lastest release tellotalent.zip archive
 2. Extract tellotalent folder and place it inside the folder "hardware" in your arduino installation directory. 
