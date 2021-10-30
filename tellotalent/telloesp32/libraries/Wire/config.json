@@ -1,0 +1,13 @@
+{
+	"uno": false,
+	"nano": false,
+	"mpython": true,
+	"fireBeetleEsp32": true,
+	"microbit": false,
+	"leonardo": false,
+	"mega2560": false,
+	"beetleProMini": false,
+	"telloesp32": true,
+	"fireBeetleEsp32": true,
+	"include": "Wire.h"
+}

@@ -1,0 +1,27 @@
+{
+	"uno": false,
+	"nano": false,
+	"mpython": true,
+	"microbit": false,
+	"leonardo": false,
+	"mega2560": false,
+	"beetleProMini": false,
+	"fireBeetleEsp32": true,
+	"telloesp32": true,
+	"conflict": [],
+	"ignore": [
+		"WiFiAP.h",
+		"WiFiSTA.h"
+	],
+	"include": [
+		"ETH.h",
+		"WiFi.h",
+		"WiFiClient.h",
+		"WiFiGeneric.h",
+		"WiFiMulti.h",
+		"WiFiScan.h",
+		"WiFiServer.h",
+		"WiFiType.h",
+		"WiFiUdp.h"
+	]
+}

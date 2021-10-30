@@ -1,0 +1,9 @@
+{
+	"mpython": true,
+	"fireBeetleEsp32": true,
+	"telloesp32": true,
+	"fireBeetleMesh": true,
+	"include": [
+		"Arduino.h"
+	]
+}

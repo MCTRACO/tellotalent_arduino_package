@@ -1,0 +1,11 @@
+{
+	"uno": false,
+	"nano": false,
+	"mpython": false,
+	"microbit": false,
+	"leonardo": false,
+	"mega2560": false,
+	"beetleProMini": false,
+	"telloesp32": true,
+	"include": ["RMTT_Effect.h", "RMTT_Fonts.h", "RMTT_GamesirT1d.h", "RMTT_Libs.h", "RMTT_Matrix.h", "RMTT_Protocol.h", "RMTT_RGB.h", "RMTT_Shell.h", "RMTT_TOF.h", "ArduinoJson.h"]
+}

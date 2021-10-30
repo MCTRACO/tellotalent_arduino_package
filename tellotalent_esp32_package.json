@@ -1,0 +1,22 @@
+{
+    "packages": [
+      {
+        "name": "tellotalent",
+        "maintainer": "mctraco",
+        "websiteURL": "https://github.com/espressif/arduino-esp32",
+        "email": "hristo@espressif.com",
+        
+        "platforms": [
+          {
+            "name": "tellotalent",
+            "architecture": "esp32",
+            "version": "1.0.0",
+            "category": "ESP32",
+            "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.1-RC1/esp32-2.0.1-RC1.zip",
+            "archiveFileName": "esp32-2.0.1-RC1.zip"
+          }
+          
+        ]
+      }
+    ]
+  }

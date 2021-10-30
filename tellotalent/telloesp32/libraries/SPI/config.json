@@ -1,0 +1,13 @@
+{
+	"uno": false,
+	"nano": false,
+	"mpython": true,
+	"microbit": false,
+	"leonardo": false,
+	"mega2560": false,
+	"fireBeetleEsp32": true,
+	"beetleProMini": false,
+	"fireBeetleEsp32": true,
+	"telloesp32": true,
+	"include": "SPI.h"
+}
