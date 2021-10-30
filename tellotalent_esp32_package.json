@@ -18,6 +18,21 @@
                 {
                   "name": "telloesp32"
                 }
+              ],
+              "tools": [
+
+                {
+                  "name": "xtensa-esp32-elf",
+                  "version": "5.2.0",
+                  "systems": [
+                    {
+                      "host": "mctraco",
+                      "url": "https://github.com/MCTRACO/tellotalent_arduino_package/releases/download/1.0.0/xtensa-esp32-elf.zip",
+                      "archiveFileName": "xtensa-esp32-elf.zip"
+                      
+                    }
+                  ]
+                }
               ]
           }
         ]
