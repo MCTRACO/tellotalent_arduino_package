@@ -18,6 +18,12 @@
                 {
                   "name": "telloesp32"
                 }
+              ],"toolsDependencies": [
+                {
+                  "packager": "esp32",
+                  "name": "xtensa-esp32-elf-gcc",
+                  "version": "gcc8_4_0-esp-2021r1"
+                }
               ]
           }
         ]
