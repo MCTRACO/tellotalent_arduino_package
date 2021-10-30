@@ -3,7 +3,7 @@
       {
         "name": "tellotalent",
         "maintainer": "mctraco",
-        "websiteURL": "https://github.com/MCTRACO/tellotalent_arduino_package2",
+        "websiteURL": "https://github.com/MCTRACO/tellotalent_arduino_package",
 
 
         "platforms": [
@@ -12,8 +12,8 @@
             "architecture": "tellotalentesp32",
             "version": "1.0.0",
             "category": "tellotalent",
-            "url": "https://github.com/MCTRACO/tellotalent_arduino_package/releases/download/1.0.0/tellotallent.zip",
-            "archiveFileName": "tellotalent.zip",
+            "url": "https://github.com/MCTRACO/tellotalent_arduino_package/releases/download/1.0.0/tellotalent_package.zip",
+            "archiveFileName": "tellotalent_package.zip",
             "boards": [
                 {
                   "name": "telloesp32"
