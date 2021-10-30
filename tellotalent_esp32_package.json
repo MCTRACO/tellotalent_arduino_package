@@ -3,8 +3,8 @@
       {
         "name": "tellotalent",
         "maintainer": "mctraco",
-        "websiteURL": "https://github.com/espressif/arduino-esp32",
-        "email": "hristo@espressif.com",
+        "websiteURL": "https://github.com/MCTRACO/tellotalent_arduino_package2",
+        
         
         "platforms": [
           {
@@ -12,7 +12,7 @@
             "architecture": "tellotalentesp32",
             "version": "1.0.0",
             "category": "tellotalent",
-            "url": "https://github.com/MCTRACO/tellotalent_arduino_package/releases/download/1.0.0/tellotallent.zip",
+            "url": "https://github.com/MCTRACO/tellotalent_arduino_package/releases/download/latest/tellotallent.zip",
             "archiveFileName": "tellotalent.zip",
             "boards": [
                 {
