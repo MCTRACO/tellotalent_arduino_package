@@ -19,8 +19,7 @@
                   "name": "telloesp32"
                 }
               ],
-              "tools": [
-
+              "toolsDependencies": [
                 {
                   "name": "xtensa-esp32-elf",
                   "version": "5.2.0",
