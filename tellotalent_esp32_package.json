@@ -9,13 +9,17 @@
         "platforms": [
           {
             "name": "tellotalent",
-            "architecture": "esp32",
+            "architecture": "tellotalentesp32",
             "version": "1.0.0",
-            "category": "ESP32",
-            "url": "https://filebin.net/dicydyybwpfgn27p/tellotalent.zip",
-            "archiveFileName": "tellotalent.zip"
+            "category": "tellotalent",
+            "url": "https://github.com/MCTRACO/tellotalent_arduino_package/releases/download/1.0.0/tellotallent.zip",
+            "archiveFileName": "tellotalent.zip",
+            "boards": [
+                {
+                  "name": "telloesp32"
+                }
+              ]
           }
-          
         ]
       }
     ]
