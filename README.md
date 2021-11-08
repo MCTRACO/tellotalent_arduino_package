@@ -13,7 +13,7 @@ Path  ``` {arduino.installation}/hardware ```
 
 # Issues 
  
-If you use my own package.json adding this url https://raw.githubusercontent.com/MCTRACO/tellotalent_arduino_package/master/tellotalent_esp32_package.json and this one for the tools https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json (separated by commas) to the additional boards url , when compiling it gives this error ```c:\users\big finger.desktop-m2tpuvp\appdata\local\arduino15\packages\tellotalent\hardware\tellotalentesp32\1.0.0\tools\mpython\xtensa-esp32-elf\xtensa-esp32-elf\include\c++\5.2.0\bits\stl_algobase.h:59:28: fatal error: bits/c++config.h: No such file or directory
+If you use my own package.json adding this url https://raw.githubusercontent.com/MCTRACO/tellotalent_arduino_package/master/tellotalent_esp32_package.json and this one for the tools https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json (separated by commas) to the additional boards url , when compiling it gives this error ```c:\users\{user}\appdata\local\arduino15\packages\tellotalent\hardware\tellotalentesp32\1.0.0\tools\mpython\xtensa-esp32-elf\xtensa-esp32-elf\include\c++\5.2.0\bits\stl_algobase.h:59:28: fatal error: bits/c++config.h: No such file or directory
 compilation terminated. ```
 
 If anyone knows how to fix this or has any idea on why this happens please let me know by opening an issue. Thanks in advance!
